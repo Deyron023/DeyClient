@@ -17,6 +17,7 @@ Plusieurs blocs sélectionnables
 Quantité configurable
 0 = minage infini
 Contrôle directement transmis à Baritone
+
 📍 Goto
 
 Déplacement automatique vers des coordonnées :
